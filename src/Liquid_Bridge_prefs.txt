@@ -1,0 +1,8 @@
+LiquidBirdgeFormationTime 0.0
+DensityOfFluid(kg/m3) 1000
+
+BridgeParameters SurfaceTension WettingAngle 
+particle:particle 0.073 0
+particle:Mixer 0.073 0
+particle:Shaft 0.073 0
+particle:Blades 0.073 0
